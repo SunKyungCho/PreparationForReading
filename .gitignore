@@ -17,6 +17,8 @@
 *.ipr
 
 ### NetBeans ###
+out/
+.gradle/
 nbproject/private/
 build/
 nbbuild/
