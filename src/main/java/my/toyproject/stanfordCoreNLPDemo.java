@@ -1,4 +1,4 @@
-package com.toyproject;
+package my.toyproject;
 
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;

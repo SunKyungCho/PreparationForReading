@@ -1,6 +1,6 @@
-package com.toyproject.repository;
+package my.toyproject.repository;
 
-import com.toyproject.domain.Word;
+import my.toyproject.domain.Word;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

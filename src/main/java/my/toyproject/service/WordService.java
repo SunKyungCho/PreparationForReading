@@ -1,4 +1,4 @@
-package com.toyproject.service;
+package my.toyproject.service;
 
 
 public interface WordService {

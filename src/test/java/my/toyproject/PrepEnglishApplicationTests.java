@@ -1,4 +1,4 @@
-package com.toyproject;
+package my.toyproject;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

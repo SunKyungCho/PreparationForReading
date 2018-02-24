@@ -1,4 +1,4 @@
-package com.toyproject.domain;
+package my.toyproject.domain;
 
 
 import lombok.Getter;

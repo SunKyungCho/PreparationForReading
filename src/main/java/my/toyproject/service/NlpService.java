@@ -1,10 +1,10 @@
-package com.toyproject.service;
+package my.toyproject.service;
 
 
 import com.google.common.base.Charsets;
 import com.google.common.io.Files;
-import com.toyproject.domain.Word;
-import com.toyproject.repository.WordRepository;
+import my.toyproject.domain.Word;
+import my.toyproject.repository.WordRepository;
 import edu.stanford.nlp.simple.Document;
 import edu.stanford.nlp.simple.Sentence;
 import org.springframework.beans.factory.annotation.Autowired;
